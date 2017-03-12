@@ -1,0 +1,145 @@
+* {cursor: default;}
+
+body, html {
+  min-height: 100vh;
+  margin: 0 auto;
+  background: url('../images/background.jpg') no-repeat center center fixed;
+  background-size: cover;
+  color: rgb(45,45,45);
+  font-family: 'Quicksand', 'Raleway', 'Amiko', 'Ubuntu', sans-serif, Arial;
+  overflow-x: hidden;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Rubik Mono One', Arial, sans-serif;
+}
+h1 {font-size: 70px;}
+h2 {font-size: 46px;}
+p  {font-size: 21px;}
+
+a {
+  color: rgb(45,45,45);
+  text-decoration: none;
+  cursor: pointer;
+}
+
+
+
+
+
+
+/* Classes */
+	.align {position: relative; top: 50%; transform: translateY(-50%);}
+
+
+
+
+
+
+/* IDs */
+
+
+
+
+
+
+
+
+
+/* Mobile */
+@media screen and (max-width: 767px) {
+
+
+
+}/* Mobile End */
+
+
+
+
+
+/* Tablet */
+@media screen and (min-width: 768px) and (max-width: 1023px) {
+
+
+
+}/* Tablet End */
+
+
+
+
+
+/* Desktop */
+@media screen and (min-width: 1024px) {
+
+
+
+}/* Desktop Ends */
+
+
+
+
+
+/*
+
+CSS3 Properties Reference
+
+Width
+Height
+Margin
+Padding
+
+
+
+Background
+Border
+  Top
+  Right
+  Bottom
+  Left
+  Border-Radius
+
+Font
+  Color
+  Font-Size
+  Font-Family
+  Font-Weight
+  Text-Align
+  Text-Decoration
+  Line-Height
+  Letter-Spacing
+  Text-Shadow
+
+Display
+Position
+Top
+Right
+Bottom
+Left
+
+Misc
+  Float
+  Cursor
+  Overflow
+  Z-Index
+  Transition
+  Transform
+
+
+Sublime Settings
+{
+	"fade_fold_buttons": false,
+	"font_face": "courier new",
+	"font_size": 10,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": true
+}
+
+
+W3Schools Approved Validation
+  <link href="https://fonts.googleapis.com/css?family=Rubik+Mono+One" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Quicksand:300,400,500,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Raleway:100,300,400,500,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Amiko:400,600,700" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700" rel="stylesheet">
+
+*/
